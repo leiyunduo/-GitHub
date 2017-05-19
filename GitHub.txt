@@ -1,21 +1,21 @@
 GITHUB
-1.ÔÚGitHubÉÏ×¢²á×Ô¼ºµÄÓÃ»§ÕËºÅÃÜÂë
-2.½øÈëGitHub µã»÷ NEW repositoryÐÂ½¨Ò»¸öÏîÄ¿
+1.åœ¨GitHubä¸Šæ³¨å†Œè‡ªå·±çš„ç”¨æˆ·è´¦å·å¯†ç 
+2.è¿›å…¥GitHub ç‚¹å‡» NEW repositoryæ–°å»ºä¸€ä¸ªé¡¹ç›®
  
-3.ÊäÈëÏîÄ¿Ãû³Æ£¨×Ô¶¨Òå£©£¬´´½¨Ö®ºóµã»÷create
+3.è¾“å…¥é¡¹ç›®åç§°ï¼ˆè‡ªå®šä¹‰ï¼‰ï¼Œåˆ›å»ºä¹‹åŽç‚¹å‡»create
  
-4. ¸´ÖÆGitHubÍøÖ·
+4. å¤åˆ¶GitHubç½‘å€
  
-5. ÔÚ×ÀÃæÉÏ´´½¨ÎÄ¼þ¼Ð£¨×Ô¶¨ÒåÎ»ÖÃ£©´ò¿ªgit bash
-6. ÔÚgit bashÉÏÊäÈë git clone ÍøÖ·    »Ø³µ
+5. åœ¨æ¡Œé¢ä¸Šåˆ›å»ºæ–‡ä»¶å¤¹ï¼ˆè‡ªå®šä¹‰ä½ç½®ï¼‰æ‰“å¼€git bash
+6. åœ¨git bashä¸Šè¾“å…¥ git clone ç½‘å€    å›žè½¦
  
-7. cd ÎÄ¼þ¼ÐÃû³Æ £¨ÔÚgit bash ÉÏ¿ÉÒÔÖ±½Ó´ò¿ªÎÄ¼þ¼Ð£©  »Ø³µ   (×¢£ºÎÄ¼þ¼Ð½øÈëºóºóÃæ»á³öÏÖ£¨master£©)
+7. cd æ–‡ä»¶å¤¹åç§° ï¼ˆåœ¨git bash ä¸Šå¯ä»¥ç›´æŽ¥æ‰“å¼€æ–‡ä»¶å¤¹ï¼‰  å›žè½¦  
  
-8.½øÈëÎÄ¼þ¼ÐºóÊäÈë£¨git add .£©£¨½«¸Ä¶¯µÄµØ·½Ìí¼Óµ½°æ±¾¹ÜÀíÆ÷£©£¨×¢£º¡°.¡±±ØÐë¼Ó£©
-9. git commit -m ¡°changes log¡± £¨Ìá½»µ½±¾µØµÄ°æ±¾¿ØÖÆ¿â£© ¡°changes log¡±Ìá½»ËµÃ÷£¨¿É×Ô¶¨Òå  £©    »Ø³µ
-10. git push -u origin master  ´Ó±¾µØÌá½»µ½GitHubÉÏ
+8.è¿›å…¥æ–‡ä»¶å¤¹åŽè¾“å…¥ï¼ˆgit add .ï¼‰ï¼ˆå°†æ”¹åŠ¨çš„åœ°æ–¹æ·»åŠ åˆ°ç‰ˆæœ¬ç®¡ç†å™¨ï¼‰ï¼ˆæ³¨ï¼šâ€œ.â€å¿…é¡»åŠ ï¼‰
+9. git commit -m â€œchanges logâ€ ï¼ˆæäº¤åˆ°æœ¬åœ°çš„ç‰ˆæœ¬æŽ§åˆ¶åº“ï¼‰ â€œchanges logâ€æäº¤è¯´æ˜Žï¼ˆå¯è‡ªå®šä¹‰  ï¼‰    å›žè½¦
+10. git push -u origin master  ä»Žæœ¬åœ°æäº¤åˆ°GitHubä¸Š
   
-11. Ìá½»¹ý³ÌÖÐ»áÊäÈëÕËºÅ ÃÜÂë ÓÃ»§Ãû
-12.git config --global user.email "you@example.com"   ÕËºÅ
-13.git config --global name.email "you@example.com"   ÃÜÂë
+11. æäº¤è¿‡ç¨‹ä¸­ä¼šè¾“å…¥è´¦å· å¯†ç  ç”¨æˆ·å
+12.git config --global user.email ""   è´¦å·
+13.git config --global name.email ""   å¯†ç 
 14 
